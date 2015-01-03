@@ -1,0 +1,6 @@
+puts(5 / 3 + 1 / 3)
+puts(10 / 5 + 2)
+puts(7 - 3 / 3)
+puts(3 * "swag")
+puts("I am a 1" + "337 h4xor")
+puts(3 + "loco")
